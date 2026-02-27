@@ -130,9 +130,6 @@ const Index = () => {
       </main>
 
       <Footer />
-
-      {/* Google Translate Script */}
-      <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" />
     </div>
   );
 };
